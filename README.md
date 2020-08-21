@@ -1,7 +1,7 @@
 # STM32H750-Step-Motor
 STM32H750VBT6 개발 보드에 올려서 사용할 수 있는 스텝모터 쉴드입니다.
 
-![](image/motor.jpg)
+![](https://github.com/uraetech/STM32H750-Step-Motor/blob/master/Image
 
 ---
 ## 특징
